@@ -541,15 +541,3 @@ img {
     margin-bottom: 20px;
   }
 }
-
-----------------------------------------------------*/
-@media screen and (max-width:480px) {
-
- .mcWRN .teQAzf {
-　width: 50vw;
-  }
-
- .teQAzf {
-　 margin: 0px;
-  }
-}
