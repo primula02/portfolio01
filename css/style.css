@@ -545,14 +545,11 @@ img {
 ----------------------------------------------------*/
 @media screen and (max-width:480px) {
 
-	/*　画面サイズが480px以下の場合ここの記述が適用される　*/
-
-  .mcWRN .teQAzf {
-    width: 50vw;
+ .mcWRN .teQAzf {
+　width: 50vw;
   }
 
-   .teQAzf {
-        margin: 0px;
-      }
-
+ .teQAzf {
+　 margin: 0px;
+  }
 }
